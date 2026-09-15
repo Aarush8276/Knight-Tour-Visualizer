@@ -1,0 +1,10 @@
+^D:\PROJECT BASICS OF DSA\BUILD\CMAKEFILES\F240532BE8D39F9A4CFA01883A21E155\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/Project basics of DSA" "-BD:/Project basics of DSA/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/Project basics of DSA/build/KnightTourVisualizer.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/Project basics of DSA/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate"
+		},
+		{
+			"file" : "D:/Project basics of DSA/build/_deps/sfml-subbuild/CMakeFiles/b2f1c5cd3bd8f38bd424649405faeadb/sfml-populate.rule"
+		},
+		{
+			"file" : "D:/Project basics of DSA/build/_deps/sfml-subbuild/CMakeFiles/06ef7650377f664cf1959a0f1b832db5/sfml-populate-complete.rule"
+		},
+		{
+			"file" : "D:/Project basics of DSA/build/_deps/sfml-subbuild/CMakeFiles/abba35d7e6d3c5354aecf23a3300e7f7/sfml-populate-build.rule"
+		},
+		{
+			"file" : "D:/Project basics of DSA/build/_deps/sfml-subbuild/CMakeFiles/abba35d7e6d3c5354aecf23a3300e7f7/sfml-populate-configure.rule"
+		},
+		{
+			"file" : "D:/Project basics of DSA/build/_deps/sfml-subbuild/CMakeFiles/abba35d7e6d3c5354aecf23a3300e7f7/sfml-populate-download.rule"
+		},
+		{
+			"file" : "D:/Project basics of DSA/build/_deps/sfml-subbuild/CMakeFiles/abba35d7e6d3c5354aecf23a3300e7f7/sfml-populate-install.rule"
+		},
+		{
+			"file" : "D:/Project basics of DSA/build/_deps/sfml-subbuild/CMakeFiles/abba35d7e6d3c5354aecf23a3300e7f7/sfml-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/Project basics of DSA/build/_deps/sfml-subbuild/CMakeFiles/abba35d7e6d3c5354aecf23a3300e7f7/sfml-populate-patch.rule"
+		},
+		{
+			"file" : "D:/Project basics of DSA/build/_deps/sfml-subbuild/CMakeFiles/abba35d7e6d3c5354aecf23a3300e7f7/sfml-populate-test.rule"
+		},
+		{
+			"file" : "D:/Project basics of DSA/build/_deps/sfml-subbuild/CMakeFiles/abba35d7e6d3c5354aecf23a3300e7f7/sfml-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sfml-populate"
+		],
+		"name" : "sfml-populate"
+	}
+}

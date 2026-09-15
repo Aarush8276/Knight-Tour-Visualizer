@@ -1,0 +1,14 @@
+# Target labels
+ sfml-populate
+# Source files and their labels
+D:/Project basics of DSA/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate
+D:/Project basics of DSA/build/_deps/sfml-subbuild/CMakeFiles/b2f1c5cd3bd8f38bd424649405faeadb/sfml-populate.rule
+D:/Project basics of DSA/build/_deps/sfml-subbuild/CMakeFiles/06ef7650377f664cf1959a0f1b832db5/sfml-populate-complete.rule
+D:/Project basics of DSA/build/_deps/sfml-subbuild/CMakeFiles/abba35d7e6d3c5354aecf23a3300e7f7/sfml-populate-build.rule
+D:/Project basics of DSA/build/_deps/sfml-subbuild/CMakeFiles/abba35d7e6d3c5354aecf23a3300e7f7/sfml-populate-configure.rule
+D:/Project basics of DSA/build/_deps/sfml-subbuild/CMakeFiles/abba35d7e6d3c5354aecf23a3300e7f7/sfml-populate-download.rule
+D:/Project basics of DSA/build/_deps/sfml-subbuild/CMakeFiles/abba35d7e6d3c5354aecf23a3300e7f7/sfml-populate-install.rule
+D:/Project basics of DSA/build/_deps/sfml-subbuild/CMakeFiles/abba35d7e6d3c5354aecf23a3300e7f7/sfml-populate-mkdir.rule
+D:/Project basics of DSA/build/_deps/sfml-subbuild/CMakeFiles/abba35d7e6d3c5354aecf23a3300e7f7/sfml-populate-patch.rule
+D:/Project basics of DSA/build/_deps/sfml-subbuild/CMakeFiles/abba35d7e6d3c5354aecf23a3300e7f7/sfml-populate-test.rule
+D:/Project basics of DSA/build/_deps/sfml-subbuild/CMakeFiles/abba35d7e6d3c5354aecf23a3300e7f7/sfml-populate-update.rule

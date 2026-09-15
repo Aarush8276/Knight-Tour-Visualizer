@@ -1,0 +1,81 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 11
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "KnightTourVisualizer::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "sfml-main::@81ec5539f1398dd625f6"
+		},
+		{
+			"id" : "sfml-system::@8cb1db2982443611e568"
+		},
+		{
+			"id" : "sfml-window::@5730451e331e3690ae65"
+		},
+		{
+			"id" : "sfml-graphics::@98af38147d5fa7e70f61"
+		},
+		{
+			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "sfml-audio::@a153e5727587c53fce98"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "CMake"
+	},
+	"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+	"isGeneratorProvided" : true,
+	"name" : "ALL_BUILD",
+	"orderDependencies" : 
+	[
+		{
+			"id" : "KnightTourVisualizer::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "sfml-main::@81ec5539f1398dd625f6"
+		},
+		{
+			"id" : "sfml-system::@8cb1db2982443611e568"
+		},
+		{
+			"id" : "sfml-window::@5730451e331e3690ae65"
+		},
+		{
+			"id" : "sfml-graphics::@98af38147d5fa7e70f61"
+		},
+		{
+			"id" : "sfml-audio::@a153e5727587c53fce98"
+		}
+	],
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}
