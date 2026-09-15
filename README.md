@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Knight's Tour Visualizer
 
 A premium, production-quality C++17 desktop visualizer for the classic **Knight's Tour** problem, styled as a futuristic AI simulation dashboard. 
@@ -106,3 +107,6 @@ KnightTourVisualizer/
 - **Warnsdorff Backtracking Hybrid**: Incorporate backtracking within Warnsdorff's heuristic to solve custom boards containing blocked/disabled squares.
 - **Custom Obstacles Grid**: Allow users to click and toggle wall blocks on the chessboard that the knight must jump over.
 - **3D Render Mode**: Introduce OpenGL-based orthographic 3D projection for a futuristic holographic projection board look.
+=======
+# Knight-Tour-Visualizer
+>>>>>>> 122bd3cebe3904660e02729fc7fe35f94755c364
