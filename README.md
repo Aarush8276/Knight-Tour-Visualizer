@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+hlo<<<<<<< HEAD
 # Knight's Tour Visualizer
 
 A premium, production-quality C++17 desktop visualizer for the classic **Knight's Tour** problem, styled as a futuristic AI simulation dashboard. 
